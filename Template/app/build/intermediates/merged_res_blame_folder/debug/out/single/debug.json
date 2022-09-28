@@ -1,0 +1,1234 @@
+[
+    {
+        "merged": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/build/intermediates/merged_res/debug/drawable-xxhdpi_ic_album_white.png.flat",
+        "source": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/src/main/res/drawable-xxhdpi/ic_album_white.png"
+    },
+    {
+        "merged": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/build/intermediates/merged_res/debug/drawable-hdpi_ic_action_thumbs_up.png.flat",
+        "source": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/src/main/res/drawable-hdpi/ic_action_thumbs_up.png"
+    },
+    {
+        "merged": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/build/intermediates/merged_res/debug/layout_fragment_webview.xml.flat",
+        "source": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/src/main/res/layout/fragment_webview.xml"
+    },
+    {
+        "merged": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/build/intermediates/merged_res/debug/drawable-xxhdpi_ic_exit_to_app.png.flat",
+        "source": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/src/main/res/drawable-xxhdpi/ic_exit_to_app.png"
+    },
+    {
+        "merged": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/build/intermediates/merged_res/debug/layout_activity_holder.xml.flat",
+        "source": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/src/main/res/layout/activity_holder.xml"
+    },
+    {
+        "merged": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/build/intermediates/merged_res/debug/layout_fragment_wc_cart_item.xml.flat",
+        "source": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/src/main/res/layout/fragment_wc_cart_item.xml"
+    },
+    {
+        "merged": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/build/intermediates/merged_res/debug/drawable-hdpi_ic_download.png.flat",
+        "source": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/src/main/res/drawable-hdpi/ic_download.png"
+    },
+    {
+        "merged": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/build/intermediates/merged_res/debug/drawable-xxhdpi_ic_more_vert.png.flat",
+        "source": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/src/main/res/drawable-xxhdpi/ic_more_vert.png"
+    },
+    {
+        "merged": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/build/intermediates/merged_res/debug/menu_menu_download.xml.flat",
+        "source": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/src/main/res/menu/menu_download.xml"
+    },
+    {
+        "merged": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/build/intermediates/merged_res/debug/drawable-hdpi_ic_comment.png.flat",
+        "source": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/src/main/res/drawable-hdpi/ic_comment.png"
+    },
+    {
+        "merged": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/build/intermediates/merged_res/debug/drawable-xhdpi_ic_action_outline_view.png.flat",
+        "source": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/src/main/res/drawable-xhdpi/ic_action_outline_view.png"
+    },
+    {
+        "merged": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/build/intermediates/merged_res/debug/layout_activity_woocommerce_product_row.xml.flat",
+        "source": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/src/main/res/layout/activity_woocommerce_product_row.xml"
+    },
+    {
+        "merged": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/build/intermediates/merged_res/debug/drawable-mdpi_ic_comment.png.flat",
+        "source": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/src/main/res/drawable-mdpi/ic_comment.png"
+    },
+    {
+        "merged": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/build/intermediates/merged_res/debug/drawable-xxhdpi_ic_previous_white.png.flat",
+        "source": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/src/main/res/drawable-xxhdpi/ic_previous_white.png"
+    },
+    {
+        "merged": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/build/intermediates/merged_res/debug/menu_view_mode_menu.xml.flat",
+        "source": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/src/main/res/menu/view_mode_menu.xml"
+    },
+    {
+        "merged": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/build/intermediates/merged_res/debug/drawable-xhdpi_ic_action_refresh.png.flat",
+        "source": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/src/main/res/drawable-xhdpi/ic_action_refresh.png"
+    },
+    {
+        "merged": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/build/intermediates/merged_res/debug/menu_woocommerce_menu.xml.flat",
+        "source": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/src/main/res/menu/woocommerce_menu.xml"
+    },
+    {
+        "merged": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/build/intermediates/merged_res/debug/drawable-xxxhdpi_ic_action_grid_view.png.flat",
+        "source": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/src/main/res/drawable-xxxhdpi/ic_action_grid_view.png"
+    },
+    {
+        "merged": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/build/intermediates/merged_res/debug/menu_soundcloud_menu.xml.flat",
+        "source": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/src/main/res/menu/soundcloud_menu.xml"
+    },
+    {
+        "merged": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/build/intermediates/merged_res/debug/drawable-xxxhdpi_ic_action_pin.png.flat",
+        "source": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/src/main/res/drawable-xxxhdpi/ic_action_pin.png"
+    },
+    {
+        "merged": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/build/intermediates/merged_res/debug/drawable-xxhdpi_ic_stop.png.flat",
+        "source": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/src/main/res/drawable-xxhdpi/ic_stop.png"
+    },
+    {
+        "merged": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/build/intermediates/merged_res/debug/layout_fragment_wc_product_card.xml.flat",
+        "source": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/src/main/res/layout/fragment_wc_product_card.xml"
+    },
+    {
+        "merged": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/build/intermediates/merged_res/debug/drawable-xxxhdpi_ic_action_wallpaper.png.flat",
+        "source": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/src/main/res/drawable-xxxhdpi/ic_action_wallpaper.png"
+    },
+    {
+        "merged": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/build/intermediates/merged_res/debug/drawable-nodpi_placeholder.jpg.flat",
+        "source": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/src/main/res/drawable-nodpi/placeholder.jpg"
+    },
+    {
+        "merged": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/build/intermediates/merged_res/debug/menu_menu_share.xml.flat",
+        "source": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/src/main/res/menu/menu_share.xml"
+    },
+    {
+        "merged": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/build/intermediates/merged_res/debug/drawable-xxhdpi_ic_view_carousel.png.flat",
+        "source": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/src/main/res/drawable-xxhdpi/ic_view_carousel.png"
+    },
+    {
+        "merged": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/build/intermediates/merged_res/debug/drawable_soundcloud_notification_button.xml.flat",
+        "source": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/src/main/res/drawable/soundcloud_notification_button.xml"
+    },
+    {
+        "merged": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/build/intermediates/merged_res/debug/layout_fragment_wc_category.xml.flat",
+        "source": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/src/main/res/layout/fragment_wc_category.xml"
+    },
+    {
+        "merged": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/build/intermediates/merged_res/debug/drawable-hdpi_ic_next_white.png.flat",
+        "source": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/src/main/res/drawable-hdpi/ic_next_white.png"
+    },
+    {
+        "merged": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/build/intermediates/merged_res/debug/layout_fragment_attachment.xml.flat",
+        "source": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/src/main/res/layout/fragment_attachment.xml"
+    },
+    {
+        "merged": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/build/intermediates/merged_res/debug/layout_fragment_fav.xml.flat",
+        "source": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/src/main/res/layout/fragment_fav.xml"
+    },
+    {
+        "merged": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/build/intermediates/merged_res/debug/drawable-hdpi_ic_view_carousel.png.flat",
+        "source": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/src/main/res/drawable-hdpi/ic_view_carousel.png"
+    },
+    {
+        "merged": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/build/intermediates/merged_res/debug/layout_fragment_wc_variation_group.xml.flat",
+        "source": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/src/main/res/layout/fragment_wc_variation_group.xml"
+    },
+    {
+        "merged": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/build/intermediates/merged_res/debug/drawable-hdpi_ic_action_wallpaper.png.flat",
+        "source": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/src/main/res/drawable-hdpi/ic_action_wallpaper.png"
+    },
+    {
+        "merged": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/build/intermediates/merged_res/debug/drawable-hdpi_ic_shopping_cart.png.flat",
+        "source": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/src/main/res/drawable-hdpi/ic_shopping_cart.png"
+    },
+    {
+        "merged": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/build/intermediates/merged_res/debug/drawable-xxhdpi_ic_action_youtube.png.flat",
+        "source": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/src/main/res/drawable-xxhdpi/ic_action_youtube.png"
+    },
+    {
+        "merged": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/build/intermediates/merged_res/debug/drawable-hdpi_ic_edit.png.flat",
+        "source": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/src/main/res/drawable-hdpi/ic_edit.png"
+    },
+    {
+        "merged": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/build/intermediates/merged_res/debug/drawable-hdpi_ic_action_grid_view.png.flat",
+        "source": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/src/main/res/drawable-hdpi/ic_action_grid_view.png"
+    },
+    {
+        "merged": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/build/intermediates/merged_res/debug/layout_fragment_wc_filter_dialog.xml.flat",
+        "source": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/src/main/res/layout/fragment_wc_filter_dialog.xml"
+    },
+    {
+        "merged": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/build/intermediates/merged_res/debug/drawable-nodpi_radio_background.png.flat",
+        "source": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/src/main/res/drawable-nodpi/radio_background.png"
+    },
+    {
+        "merged": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/build/intermediates/merged_res/debug/drawable-mdpi_ic_action_outline_view.png.flat",
+        "source": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/src/main/res/drawable-mdpi/ic_action_outline_view.png"
+    },
+    {
+        "merged": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/build/intermediates/merged_res/debug/drawable-xxhdpi_ic_shopping_cart.png.flat",
+        "source": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/src/main/res/drawable-xxhdpi/ic_shopping_cart.png"
+    },
+    {
+        "merged": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/build/intermediates/merged_res/debug/menu_woocommerce_detail_menu.xml.flat",
+        "source": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/src/main/res/menu/woocommerce_detail_menu.xml"
+    },
+    {
+        "merged": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/build/intermediates/merged_res/debug/layout_fragment_wc_loading.xml.flat",
+        "source": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/src/main/res/layout/fragment_wc_loading.xml"
+    },
+    {
+        "merged": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/build/intermediates/merged_res/debug/drawable-xhdpi_ic_next_white.png.flat",
+        "source": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/src/main/res/drawable-xhdpi/ic_next_white.png"
+    },
+    {
+        "merged": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/build/intermediates/merged_res/debug/drawable-xxhdpi_ic_search.png.flat",
+        "source": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/src/main/res/drawable-xxhdpi/ic_search.png"
+    },
+    {
+        "merged": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/build/intermediates/merged_res/debug/drawable_gradient_two.xml.flat",
+        "source": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/src/main/res/drawable/gradient_two.xml"
+    },
+    {
+        "merged": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/build/intermediates/merged_res/debug/drawable-mdpi_ic_action_action_done.png.flat",
+        "source": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/src/main/res/drawable-mdpi/ic_action_action_done.png"
+    },
+    {
+        "merged": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/build/intermediates/merged_res/debug/layout_activity_attachment_video.xml.flat",
+        "source": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/src/main/res/layout/activity_attachment_video.xml"
+    },
+    {
+        "merged": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/build/intermediates/merged_res/debug/layout_fragment_webview_actionbar.xml.flat",
+        "source": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/src/main/res/layout/fragment_webview_actionbar.xml"
+    },
+    {
+        "merged": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/build/intermediates/merged_res/debug/drawable-mdpi_ic_download.png.flat",
+        "source": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/src/main/res/drawable-mdpi/ic_download.png"
+    },
+    {
+        "merged": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/build/intermediates/merged_res/debug/drawable-xhdpi_ic_action_thumbs_up.png.flat",
+        "source": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/src/main/res/drawable-xhdpi/ic_action_thumbs_up.png"
+    },
+    {
+        "merged": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/build/intermediates/merged_res/debug/drawable-nodpi_placeholder_coverart.png.flat",
+        "source": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/src/main/res/drawable-nodpi/placeholder_coverart.png"
+    },
+    {
+        "merged": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/build/intermediates/merged_res/debug/layout_fragment_wc_filter_header.xml.flat",
+        "source": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/src/main/res/layout/fragment_wc_filter_header.xml"
+    },
+    {
+        "merged": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/build/intermediates/merged_res/debug/drawable-hdpi_ic_radio_playing.png.flat",
+        "source": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/src/main/res/drawable-hdpi/ic_radio_playing.png"
+    },
+    {
+        "merged": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/build/intermediates/merged_res/debug/drawable-xxxhdpi_ic_action_play.png.flat",
+        "source": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/src/main/res/drawable-xxxhdpi/ic_action_play.png"
+    },
+    {
+        "merged": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/build/intermediates/merged_res/debug/layout_fragment_webview_no_connection.xml.flat",
+        "source": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/src/main/res/layout/fragment_webview_no_connection.xml"
+    },
+    {
+        "merged": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/build/intermediates/merged_res/debug/drawable-xxhdpi_ic_action_refresh.png.flat",
+        "source": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/src/main/res/drawable-xxhdpi/ic_action_refresh.png"
+    },
+    {
+        "merged": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/build/intermediates/merged_res/debug/layout_fragment_list.xml.flat",
+        "source": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/src/main/res/layout/fragment_list.xml"
+    },
+    {
+        "merged": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/build/intermediates/merged_res/debug/drawable-xxxhdpi_ic_shield.png.flat",
+        "source": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/src/main/res/drawable-xxxhdpi/ic_shield.png"
+    },
+    {
+        "merged": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/build/intermediates/merged_res/debug/drawable-xhdpi_soundcloud_shadow_bottom.9.png.flat",
+        "source": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/src/main/res/drawable-xhdpi/soundcloud_shadow_bottom.9.png"
+    },
+    {
+        "merged": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/build/intermediates/merged_res/debug/menu_refresh_menu.xml.flat",
+        "source": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/src/main/res/menu/refresh_menu.xml"
+    },
+    {
+        "merged": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/build/intermediates/merged_res/debug/drawable-mdpi_ic_action_share_dark.png.flat",
+        "source": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/src/main/res/drawable-mdpi/ic_action_share_dark.png"
+    },
+    {
+        "merged": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/build/intermediates/merged_res/debug/drawable-mdpi_ic_pause_white.png.flat",
+        "source": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/src/main/res/drawable-mdpi/ic_pause_white.png"
+    },
+    {
+        "merged": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/build/intermediates/merged_res/debug/drawable-xxhdpi_ic_radio_playing.png.flat",
+        "source": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/src/main/res/drawable-xxhdpi/ic_radio_playing.png"
+    },
+    {
+        "merged": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/build/intermediates/merged_res/debug/layout_soundcloud_notification_icon.xml.flat",
+        "source": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/src/main/res/layout/soundcloud_notification_icon.xml"
+    },
+    {
+        "merged": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/build/intermediates/merged_res/debug/drawable-xxxhdpi_ic_action_refresh.png.flat",
+        "source": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/src/main/res/drawable-xxxhdpi/ic_action_refresh.png"
+    },
+    {
+        "merged": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/build/intermediates/merged_res/debug/drawable-hdpi_ic_pause_white.png.flat",
+        "source": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/src/main/res/drawable-hdpi/ic_pause_white.png"
+    },
+    {
+        "merged": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/build/intermediates/merged_res/debug/drawable-hdpi_ic_action_retweet.png.flat",
+        "source": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/src/main/res/drawable-hdpi/ic_action_retweet.png"
+    },
+    {
+        "merged": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/build/intermediates/merged_res/debug/drawable_chip_background_dark.xml.flat",
+        "source": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/src/main/res/drawable/chip_background_dark.xml"
+    },
+    {
+        "merged": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/build/intermediates/merged_res/debug/layout_soundcloud_track_view.xml.flat",
+        "source": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/src/main/res/layout/soundcloud_track_view.xml"
+    },
+    {
+        "merged": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/build/intermediates/merged_res/debug/layout_fragment_radio.xml.flat",
+        "source": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/src/main/res/layout/fragment_radio.xml"
+    },
+    {
+        "merged": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/build/intermediates/merged_res/debug/drawable-xhdpi_ic_action_share_dark.png.flat",
+        "source": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/src/main/res/drawable-xhdpi/ic_action_share_dark.png"
+    },
+    {
+        "merged": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/build/intermediates/merged_res/debug/drawable-xhdpi_ic_search.png.flat",
+        "source": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/src/main/res/drawable-xhdpi/ic_search.png"
+    },
+    {
+        "merged": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/build/intermediates/merged_res/debug/layout_soundcloud_notification.xml.flat",
+        "source": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/src/main/res/layout/soundcloud_notification.xml"
+    },
+    {
+        "merged": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/build/intermediates/merged_res/debug/layout_fragment_wc_order.xml.flat",
+        "source": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/src/main/res/layout/fragment_wc_order.xml"
+    },
+    {
+        "merged": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/build/intermediates/merged_res/debug/drawable-nodpi_placeholder_video.jpg.flat",
+        "source": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/src/main/res/drawable-nodpi/placeholder_video.jpg"
+    },
+    {
+        "merged": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/build/intermediates/merged_res/debug/drawable-xxxhdpi_ic_action_left.png.flat",
+        "source": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/src/main/res/drawable-xxxhdpi/ic_action_left.png"
+    },
+    {
+        "merged": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/build/intermediates/merged_res/debug/drawable_highlight_gradient.xml.flat",
+        "source": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/src/main/res/drawable/highlight_gradient.xml"
+    },
+    {
+        "merged": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/build/intermediates/merged_res/debug/drawable_soundcloud_selectable_background_white.xml.flat",
+        "source": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/src/main/res/drawable/soundcloud_selectable_background_white.xml"
+    },
+    {
+        "merged": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/build/intermediates/merged_res/debug/drawable-hdpi_ic_action_share.png.flat",
+        "source": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/src/main/res/drawable-hdpi/ic_action_share.png"
+    },
+    {
+        "merged": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/build/intermediates/merged_res/debug/drawable-mdpi_ic_view_carousel.png.flat",
+        "source": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/src/main/res/drawable-mdpi/ic_view_carousel.png"
+    },
+    {
+        "merged": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/build/intermediates/merged_res/debug/layout_activity_details.xml.flat",
+        "source": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/src/main/res/layout/activity_details.xml"
+    },
+    {
+        "merged": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/build/intermediates/merged_res/debug/drawable-hdpi_soundcloud_shadow_bottom.9.png.flat",
+        "source": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/src/main/res/drawable-hdpi/soundcloud_shadow_bottom.9.png"
+    },
+    {
+        "merged": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/build/intermediates/merged_res/debug/drawable-hdpi_ic_action_left.png.flat",
+        "source": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/src/main/res/drawable-hdpi/ic_action_left.png"
+    },
+    {
+        "merged": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/build/intermediates/merged_res/debug/drawable-hdpi_ic_action_play.png.flat",
+        "source": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/src/main/res/drawable-hdpi/ic_action_play.png"
+    },
+    {
+        "merged": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/build/intermediates/merged_res/debug/drawable-mdpi_ic_delete.png.flat",
+        "source": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/src/main/res/drawable-mdpi/ic_delete.png"
+    },
+    {
+        "merged": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/build/intermediates/merged_res/debug/layout_fragment_wc_category_card_round.xml.flat",
+        "source": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/src/main/res/layout/fragment_wc_category_card_round.xml"
+    },
+    {
+        "merged": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/build/intermediates/merged_res/debug/menu_webview_menu.xml.flat",
+        "source": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/src/main/res/menu/webview_menu.xml"
+    },
+    {
+        "merged": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/build/intermediates/merged_res/debug/drawable-xxxhdpi_ic_action_share_dark.png.flat",
+        "source": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/src/main/res/drawable-xxxhdpi/ic_action_share_dark.png"
+    },
+    {
+        "merged": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/build/intermediates/merged_res/debug/drawable-hdpi_ic_action_youtube.png.flat",
+        "source": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/src/main/res/drawable-hdpi/ic_action_youtube.png"
+    },
+    {
+        "merged": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/build/intermediates/merged_res/debug/drawable-xhdpi_ic_action_left.png.flat",
+        "source": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/src/main/res/drawable-xhdpi/ic_action_left.png"
+    },
+    {
+        "merged": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/build/intermediates/merged_res/debug/drawable-xhdpi_ic_action_play.png.flat",
+        "source": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/src/main/res/drawable-xhdpi/ic_action_play.png"
+    },
+    {
+        "merged": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/build/intermediates/merged_res/debug/drawable-xhdpi_ic_heart.png.flat",
+        "source": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/src/main/res/drawable-xhdpi/ic_heart.png"
+    },
+    {
+        "merged": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/build/intermediates/merged_res/debug/drawable_gradient_four.xml.flat",
+        "source": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/src/main/res/drawable/gradient_four.xml"
+    },
+    {
+        "merged": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/build/intermediates/merged_res/debug/layout_fragment_tv.xml.flat",
+        "source": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/src/main/res/layout/fragment_tv.xml"
+    },
+    {
+        "merged": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/build/intermediates/merged_res/debug/drawable-xhdpi_ic_delete.png.flat",
+        "source": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/src/main/res/drawable-xhdpi/ic_delete.png"
+    },
+    {
+        "merged": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/build/intermediates/merged_res/debug/drawable-xxhdpi_ic_action_share_dark.png.flat",
+        "source": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/src/main/res/drawable-xxhdpi/ic_action_share_dark.png"
+    },
+    {
+        "merged": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/build/intermediates/merged_res/debug/layout_activity_comment_sub.xml.flat",
+        "source": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/src/main/res/layout/activity_comment_sub.xml"
+    },
+    {
+        "merged": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/build/intermediates/merged_res/debug/layout_activity_attachment_gallery_view.xml.flat",
+        "source": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/src/main/res/layout/activity_attachment_gallery_view.xml"
+    },
+    {
+        "merged": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/build/intermediates/merged_res/debug/layout_fragment_audio.xml.flat",
+        "source": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/src/main/res/layout/fragment_audio.xml"
+    },
+    {
+        "merged": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/build/intermediates/merged_res/debug/drawable-xhdpi_ic_bag.png.flat",
+        "source": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/src/main/res/drawable-xhdpi/ic_bag.png"
+    },
+    {
+        "merged": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/build/intermediates/merged_res/debug/drawable-nodpi_youtube_live.png.flat",
+        "source": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/src/main/res/drawable-nodpi/youtube_live.png"
+    },
+    {
+        "merged": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/build/intermediates/merged_res/debug/layout_soundcloud_notification_expanded.xml.flat",
+        "source": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/src/main/res/layout/soundcloud_notification_expanded.xml"
+    },
+    {
+        "merged": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/build/intermediates/merged_res/debug/layout_fragment_image_row.xml.flat",
+        "source": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/src/main/res/layout/fragment_image_row.xml"
+    },
+    {
+        "merged": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/build/intermediates/merged_res/debug/drawable-xxhdpi_ic_action_search.png.flat",
+        "source": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/src/main/res/drawable-xxhdpi/ic_action_search.png"
+    },
+    {
+        "merged": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/build/intermediates/merged_res/debug/drawable-xxxhdpi_ic_stop.png.flat",
+        "source": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/src/main/res/drawable-xxxhdpi/ic_stop.png"
+    },
+    {
+        "merged": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/build/intermediates/merged_res/debug/drawable-xxhdpi_ic_bag.png.flat",
+        "source": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/src/main/res/drawable-xxhdpi/ic_bag.png"
+    },
+    {
+        "merged": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/build/intermediates/merged_res/debug/drawable-xhdpi_ic_view_carousel.png.flat",
+        "source": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/src/main/res/drawable-xhdpi/ic_view_carousel.png"
+    },
+    {
+        "merged": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/build/intermediates/merged_res/debug/layout_listview_highlight.xml.flat",
+        "source": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/src/main/res/layout/listview_highlight.xml"
+    },
+    {
+        "merged": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/build/intermediates/merged_res/debug/drawable_drawer_item_background.xml.flat",
+        "source": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/src/main/res/drawable/drawer_item_background.xml"
+    },
+    {
+        "merged": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/build/intermediates/merged_res/debug/layout_fragment_wc_header_text.xml.flat",
+        "source": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/src/main/res/layout/fragment_wc_header_text.xml"
+    },
+    {
+        "merged": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/build/intermediates/merged_res/debug/menu_wordpress_detail_menu.xml.flat",
+        "source": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/src/main/res/menu/wordpress_detail_menu.xml"
+    },
+    {
+        "merged": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/build/intermediates/merged_res/debug/drawable-hdpi_ic_action_search.png.flat",
+        "source": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/src/main/res/drawable-hdpi/ic_action_search.png"
+    },
+    {
+        "merged": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/build/intermediates/merged_res/debug/layout_activity_wordpress_details.xml.flat",
+        "source": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/src/main/res/layout/activity_wordpress_details.xml"
+    },
+    {
+        "merged": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/build/intermediates/merged_res/debug/drawable_gradient_one.xml.flat",
+        "source": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/src/main/res/drawable/gradient_one.xml"
+    },
+    {
+        "merged": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/build/intermediates/merged_res/debug/layout_fragment_overview_card_text.xml.flat",
+        "source": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/src/main/res/layout/fragment_overview_card_text.xml"
+    },
+    {
+        "merged": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/build/intermediates/merged_res/debug/layout_activity_main.xml.flat",
+        "source": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/build/intermediates/merged_res/debug/drawable-xxxhdpi_ic_download.png.flat",
+        "source": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/src/main/res/drawable-xxxhdpi/ic_download.png"
+    },
+    {
+        "merged": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/build/intermediates/merged_res/debug/layout_listview_loading.xml.flat",
+        "source": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/src/main/res/layout/listview_loading.xml"
+    },
+    {
+        "merged": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/build/intermediates/merged_res/debug/layout_listview_footer.xml.flat",
+        "source": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/src/main/res/layout/listview_footer.xml"
+    },
+    {
+        "merged": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/build/intermediates/merged_res/debug/layout_toolbar_default.xml.flat",
+        "source": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/src/main/res/layout/toolbar_default.xml"
+    },
+    {
+        "merged": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/build/intermediates/merged_res/debug/drawable-xxxhdpi_ic_comment.png.flat",
+        "source": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/src/main/res/drawable-xxxhdpi/ic_comment.png"
+    },
+    {
+        "merged": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/build/intermediates/merged_res/debug/drawable-xhdpi_ic_action_action_done.png.flat",
+        "source": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/src/main/res/drawable-xhdpi/ic_action_action_done.png"
+    },
+    {
+        "merged": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/build/intermediates/merged_res/debug/layout_activity_attachment.xml.flat",
+        "source": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/src/main/res/layout/activity_attachment.xml"
+    },
+    {
+        "merged": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/build/intermediates/merged_res/debug/drawable-xxhdpi_ic_open_in_new.png.flat",
+        "source": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/src/main/res/drawable-xxhdpi/ic_open_in_new.png"
+    },
+    {
+        "merged": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/build/intermediates/merged_res/debug/drawable-mdpi_ic_next_white.png.flat",
+        "source": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/src/main/res/drawable-mdpi/ic_next_white.png"
+    },
+    {
+        "merged": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/build/intermediates/merged_res/debug/drawable-mdpi_ic_action_wallpaper.png.flat",
+        "source": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/src/main/res/drawable-mdpi/ic_action_wallpaper.png"
+    },
+    {
+        "merged": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/build/intermediates/merged_res/debug/drawable-xxhdpi_ic_clear_white.png.flat",
+        "source": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/src/main/res/drawable-xxhdpi/ic_clear_white.png"
+    },
+    {
+        "merged": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/build/intermediates/merged_res/debug/menu_rss_menu.xml.flat",
+        "source": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/src/main/res/menu/rss_menu.xml"
+    },
+    {
+        "merged": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/build/intermediates/merged_res/debug/drawable-mdpi_ic_open_in_new.png.flat",
+        "source": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/src/main/res/drawable-mdpi/ic_open_in_new.png"
+    },
+    {
+        "merged": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/build/intermediates/merged_res/debug/drawable-xxxhdpi_ic_shopping_cart.png.flat",
+        "source": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/src/main/res/drawable-xxxhdpi/ic_shopping_cart.png"
+    },
+    {
+        "merged": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/build/intermediates/merged_res/debug/layout_listview_row.xml.flat",
+        "source": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/src/main/res/layout/listview_row.xml"
+    },
+    {
+        "merged": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/build/intermediates/merged_res/debug/drawable-mdpi_ic_action_pin.png.flat",
+        "source": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/src/main/res/drawable-mdpi/ic_action_pin.png"
+    },
+    {
+        "merged": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/build/intermediates/merged_res/debug/layout_toolbar_tabbar.xml.flat",
+        "source": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/src/main/res/layout/toolbar_tabbar.xml"
+    },
+    {
+        "merged": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/build/intermediates/merged_res/debug/drawable-xxhdpi_ic_action_pin.png.flat",
+        "source": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/src/main/res/drawable-xxhdpi/ic_action_pin.png"
+    },
+    {
+        "merged": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/build/intermediates/merged_res/debug/drawable-hdpi_ic_stop.png.flat",
+        "source": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/src/main/res/drawable-hdpi/ic_stop.png"
+    },
+    {
+        "merged": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/build/intermediates/merged_res/debug/drawable-xhdpi_ic_action_retweet.png.flat",
+        "source": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/src/main/res/drawable-xhdpi/ic_action_retweet.png"
+    },
+    {
+        "merged": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/build/intermediates/merged_res/debug/layout_activity_rss_details.xml.flat",
+        "source": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/src/main/res/layout/activity_rss_details.xml"
+    },
+    {
+        "merged": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/build/intermediates/merged_res/debug/drawable-mdpi_ic_stop.png.flat",
+        "source": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/src/main/res/drawable-mdpi/ic_stop.png"
+    },
+    {
+        "merged": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/build/intermediates/merged_res/debug/drawable-xxhdpi_ic_next_white.png.flat",
+        "source": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/src/main/res/drawable-xxhdpi/ic_next_white.png"
+    },
+    {
+        "merged": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/build/intermediates/merged_res/debug/drawable-xhdpi_ic_more_vert.png.flat",
+        "source": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/src/main/res/drawable-xhdpi/ic_more_vert.png"
+    },
+    {
+        "merged": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/build/intermediates/merged_res/debug/drawable-mdpi_ic_action_grid_view.png.flat",
+        "source": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/src/main/res/drawable-mdpi/ic_action_grid_view.png"
+    },
+    {
+        "merged": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/build/intermediates/merged_res/debug/drawable-xhdpi_ic_radio_playing.png.flat",
+        "source": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/src/main/res/drawable-xhdpi/ic_radio_playing.png"
+    },
+    {
+        "merged": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/build/intermediates/merged_res/debug/layout_fragment_preference_list.xml.flat",
+        "source": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/src/main/res/layout/fragment_preference_list.xml"
+    },
+    {
+        "merged": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/build/intermediates/merged_res/debug/drawable-xxxhdpi_ic_action_thumbs_up.png.flat",
+        "source": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/src/main/res/drawable-xxxhdpi/ic_action_thumbs_up.png"
+    },
+    {
+        "merged": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/build/intermediates/merged_res/debug/drawable-xxxhdpi_soundcloud_shadow_top.9.png.flat",
+        "source": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/src/main/res/drawable-xxxhdpi/soundcloud_shadow_top.9.png"
+    },
+    {
+        "merged": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/build/intermediates/merged_res/debug/drawable-xhdpi_ic_stop.png.flat",
+        "source": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/src/main/res/drawable-xhdpi/ic_stop.png"
+    },
+    {
+        "merged": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/build/intermediates/merged_res/debug/layout_fragment_wc_category_card_image.xml.flat",
+        "source": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/src/main/res/layout/fragment_wc_category_card_image.xml"
+    },
+    {
+        "merged": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/build/intermediates/merged_res/debug/drawable-xxhdpi_soundcloud_shadow_bottom.9.png.flat",
+        "source": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/src/main/res/drawable-xxhdpi/soundcloud_shadow_bottom.9.png"
+    },
+    {
+        "merged": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/build/intermediates/merged_res/debug/layout_fragment_wc_header_search.xml.flat",
+        "source": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/src/main/res/layout/fragment_wc_header_search.xml"
+    },
+    {
+        "merged": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/build/intermediates/merged_res/debug/menu_menu_search.xml.flat",
+        "source": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/src/main/res/menu/menu_search.xml"
+    },
+    {
+        "merged": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/build/intermediates/merged_res/debug/layout_soundcloud_playback_view.xml.flat",
+        "source": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/src/main/res/layout/soundcloud_playback_view.xml"
+    },
+    {
+        "merged": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/build/intermediates/merged_res/debug/layout_fragment_list_refresh.xml.flat",
+        "source": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/src/main/res/layout/fragment_list_refresh.xml"
+    },
+    {
+        "merged": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/build/intermediates/merged_res/debug/drawable-xxxhdpi_ic_pause_white.png.flat",
+        "source": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/src/main/res/drawable-xxxhdpi/ic_pause_white.png"
+    },
+    {
+        "merged": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/build/intermediates/merged_res/debug/drawable-xxxhdpi_ic_heart.png.flat",
+        "source": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/src/main/res/drawable-xxxhdpi/ic_heart.png"
+    },
+    {
+        "merged": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/build/intermediates/merged_res/debug/drawable_toolbar_gradient.xml.flat",
+        "source": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/src/main/res/drawable/toolbar_gradient.xml"
+    },
+    {
+        "merged": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/build/intermediates/merged_res/debug/drawable-xxxhdpi_ic_open_in_new.png.flat",
+        "source": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/src/main/res/drawable-xxxhdpi/ic_open_in_new.png"
+    },
+    {
+        "merged": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/build/intermediates/merged_res/debug/drawable-xhdpi_ic_shopping_cart.png.flat",
+        "source": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/src/main/res/drawable-xhdpi/ic_shopping_cart.png"
+    },
+    {
+        "merged": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/build/intermediates/merged_res/debug/menu_favorite_menu.xml.flat",
+        "source": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/src/main/res/menu/favorite_menu.xml"
+    },
+    {
+        "merged": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/build/intermediates/merged_res/debug/drawable-xxhdpi_ic_comment.png.flat",
+        "source": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/src/main/res/drawable-xxhdpi/ic_comment.png"
+    },
+    {
+        "merged": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/build/intermediates/merged_res/debug/drawable-xxxhdpi_ic_more_vert.png.flat",
+        "source": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/src/main/res/drawable-xxxhdpi/ic_more_vert.png"
+    },
+    {
+        "merged": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/build/intermediates/merged_res/debug/layout_listview_slider_chip.xml.flat",
+        "source": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/src/main/res/layout/listview_slider_chip.xml"
+    },
+    {
+        "merged": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/build/intermediates/merged_res/debug/drawable-mdpi_ic_album_white.png.flat",
+        "source": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/src/main/res/drawable-mdpi/ic_album_white.png"
+    },
+    {
+        "merged": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/build/intermediates/merged_res/debug/drawable-mdpi_ic_action_youtube.png.flat",
+        "source": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/src/main/res/drawable-mdpi/ic_action_youtube.png"
+    },
+    {
+        "merged": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/build/intermediates/merged_res/debug/layout_fragment_pinterest_row.xml.flat",
+        "source": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/src/main/res/layout/fragment_pinterest_row.xml"
+    },
+    {
+        "merged": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/build/intermediates/merged_res/debug/drawable-hdpi_ic_action_pin.png.flat",
+        "source": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/src/main/res/drawable-hdpi/ic_action_pin.png"
+    },
+    {
+        "merged": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/build/intermediates/merged_res/debug/drawable-hdpi_ic_action_right.png.flat",
+        "source": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/src/main/res/drawable-hdpi/ic_action_right.png"
+    },
+    {
+        "merged": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/build/intermediates/merged_res/debug/drawable-hdpi_ic_action_outline_view.png.flat",
+        "source": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/src/main/res/drawable-hdpi/ic_action_outline_view.png"
+    },
+    {
+        "merged": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/build/intermediates/merged_res/debug/menu_youtube_detail_menu.xml.flat",
+        "source": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/src/main/res/menu/youtube_detail_menu.xml"
+    },
+    {
+        "merged": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/build/intermediates/merged_res/debug/drawable-xxhdpi_ic_action_thumbs_up.png.flat",
+        "source": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/src/main/res/drawable-xxhdpi/ic_action_thumbs_up.png"
+    },
+    {
+        "merged": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/build/intermediates/merged_res/debug/drawable-xxhdpi_soundcloud_shadow_top.9.png.flat",
+        "source": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/src/main/res/drawable-xxhdpi/soundcloud_shadow_top.9.png"
+    },
+    {
+        "merged": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/build/intermediates/merged_res/debug/drawable-mdpi_ic_action_thumbs_up.png.flat",
+        "source": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/src/main/res/drawable-mdpi/ic_action_thumbs_up.png"
+    },
+    {
+        "merged": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/build/intermediates/merged_res/debug/drawable-mdpi_ic_radio_playing.png.flat",
+        "source": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/src/main/res/drawable-mdpi/ic_radio_playing.png"
+    },
+    {
+        "merged": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/build/intermediates/merged_res/debug/drawable-mdpi_ic_shopping_cart.png.flat",
+        "source": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/src/main/res/drawable-mdpi/ic_shopping_cart.png"
+    },
+    {
+        "merged": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/build/intermediates/merged_res/debug/drawable-mdpi_ic_exit_to_app.png.flat",
+        "source": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/src/main/res/drawable-mdpi/ic_exit_to_app.png"
+    },
+    {
+        "merged": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/build/intermediates/merged_res/debug/drawable-xhdpi_ic_download.png.flat",
+        "source": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/src/main/res/drawable-xhdpi/ic_download.png"
+    },
+    {
+        "merged": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/build/intermediates/merged_res/debug/drawable-mdpi_ic_previous_white.png.flat",
+        "source": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/src/main/res/drawable-mdpi/ic_previous_white.png"
+    },
+    {
+        "merged": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/build/intermediates/merged_res/debug/layout_fragment_maps.xml.flat",
+        "source": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/src/main/res/layout/fragment_maps.xml"
+    },
+    {
+        "merged": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/build/intermediates/merged_res/debug/layout_activity_audio.xml.flat",
+        "source": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/src/main/res/layout/activity_audio.xml"
+    },
+    {
+        "merged": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/build/intermediates/merged_res/debug/menu_soundcloud_track_menu.xml.flat",
+        "source": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/src/main/res/menu/soundcloud_track_menu.xml"
+    },
+    {
+        "merged": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/build/intermediates/merged_res/debug/drawable-xhdpi_ic_edit.png.flat",
+        "source": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/src/main/res/drawable-xhdpi/ic_edit.png"
+    },
+    {
+        "merged": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/build/intermediates/merged_res/debug/drawable-hdpi_ic_clear_white.png.flat",
+        "source": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/src/main/res/drawable-hdpi/ic_clear_white.png"
+    },
+    {
+        "merged": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/build/intermediates/merged_res/debug/drawable-hdpi_ic_action_refresh.png.flat",
+        "source": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/src/main/res/drawable-hdpi/ic_action_refresh.png"
+    },
+    {
+        "merged": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/build/intermediates/merged_res/debug/drawable_soundcloud_notification_icon_background.xml.flat",
+        "source": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/src/main/res/drawable/soundcloud_notification_icon_background.xml"
+    },
+    {
+        "merged": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/build/intermediates/merged_res/debug/drawable-xxxhdpi_ic_action_retweet.png.flat",
+        "source": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/src/main/res/drawable-xxxhdpi/ic_action_retweet.png"
+    },
+    {
+        "merged": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/build/intermediates/merged_res/debug/drawable-hdpi_ic_delete.png.flat",
+        "source": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/src/main/res/drawable-hdpi/ic_delete.png"
+    },
+    {
+        "merged": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/build/intermediates/merged_res/debug/layout_fragment_social_row.xml.flat",
+        "source": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/src/main/res/layout/fragment_social_row.xml"
+    },
+    {
+        "merged": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/build/intermediates/merged_res/debug/layout_fragment_host.xml.flat",
+        "source": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/src/main/res/layout/fragment_host.xml"
+    },
+    {
+        "merged": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/build/intermediates/merged_res/debug/drawable-xxxhdpi_ic_next_white.png.flat",
+        "source": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/src/main/res/drawable-xxxhdpi/ic_next_white.png"
+    },
+    {
+        "merged": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/build/intermediates/merged_res/debug/drawable-xhdpi_ic_action_search.png.flat",
+        "source": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/src/main/res/drawable-xhdpi/ic_action_search.png"
+    },
+    {
+        "merged": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/build/intermediates/merged_res/debug/drawable_rounded_placeholder.xml.flat",
+        "source": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/src/main/res/drawable/rounded_placeholder.xml"
+    },
+    {
+        "merged": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/build/intermediates/merged_res/debug/drawable-mdpi_ic_clear_white.png.flat",
+        "source": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/src/main/res/drawable-mdpi/ic_clear_white.png"
+    },
+    {
+        "merged": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/build/intermediates/merged_res/debug/layout_drawer_top.xml.flat",
+        "source": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/src/main/res/layout/drawer_top.xml"
+    },
+    {
+        "merged": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/build/intermediates/merged_res/debug/drawable-hdpi_ic_exit_to_app.png.flat",
+        "source": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/src/main/res/drawable-hdpi/ic_exit_to_app.png"
+    },
+    {
+        "merged": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/build/intermediates/merged_res/debug/drawable-xhdpi_soundcloud_shadow_top.9.png.flat",
+        "source": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/src/main/res/drawable-xhdpi/soundcloud_shadow_top.9.png"
+    },
+    {
+        "merged": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/build/intermediates/merged_res/debug/drawable-hdpi_ic_album_white.png.flat",
+        "source": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/src/main/res/drawable-hdpi/ic_album_white.png"
+    },
+    {
+        "merged": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/build/intermediates/merged_res/debug/drawable-mdpi_soundcloud_shadow_top.9.png.flat",
+        "source": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/src/main/res/drawable-mdpi/soundcloud_shadow_top.9.png"
+    },
+    {
+        "merged": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/build/intermediates/merged_res/debug/layout_fragment_video_row.xml.flat",
+        "source": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/src/main/res/layout/fragment_video_row.xml"
+    },
+    {
+        "merged": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/build/intermediates/merged_res/debug/drawable_radio_tooltip.xml.flat",
+        "source": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/src/main/res/drawable/radio_tooltip.xml"
+    },
+    {
+        "merged": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/build/intermediates/merged_res/debug/drawable-xxxhdpi_ic_exit_to_app.png.flat",
+        "source": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/src/main/res/drawable-xxxhdpi/ic_exit_to_app.png"
+    },
+    {
+        "merged": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/build/intermediates/merged_res/debug/drawable_drawer_header.png.flat",
+        "source": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/src/main/res/drawable/drawer_header.png"
+    },
+    {
+        "merged": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/build/intermediates/merged_res/debug/drawable-xhdpi_ic_action_pin.png.flat",
+        "source": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/src/main/res/drawable-xhdpi/ic_action_pin.png"
+    },
+    {
+        "merged": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/build/intermediates/merged_res/debug/xml_activity_settings.xml.flat",
+        "source": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/src/main/res/xml/activity_settings.xml"
+    },
+    {
+        "merged": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/build/intermediates/merged_res/debug/drawable-hdpi_ic_bag.png.flat",
+        "source": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/src/main/res/drawable-hdpi/ic_bag.png"
+    },
+    {
+        "merged": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/build/intermediates/merged_res/debug/layout_fragment_wc_order_header.xml.flat",
+        "source": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/src/main/res/layout/fragment_wc_order_header.xml"
+    },
+    {
+        "merged": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/build/intermediates/merged_res/debug/drawable_soundcloud_seekbar.xml.flat",
+        "source": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/src/main/res/drawable/soundcloud_seekbar.xml"
+    },
+    {
+        "merged": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/build/intermediates/merged_res/debug/drawable-nodpi_sad_cloud.png.flat",
+        "source": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/src/main/res/drawable-nodpi/sad_cloud.png"
+    },
+    {
+        "merged": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/build/intermediates/merged_res/debug/drawable-xxhdpi_ic_download.png.flat",
+        "source": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/src/main/res/drawable-xxhdpi/ic_download.png"
+    },
+    {
+        "merged": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/build/intermediates/merged_res/debug/drawable-xxhdpi_ic_action_action_done.png.flat",
+        "source": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/src/main/res/drawable-xxhdpi/ic_action_action_done.png"
+    },
+    {
+        "merged": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/build/intermediates/merged_res/debug/drawable-mdpi_ic_heart.png.flat",
+        "source": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/src/main/res/drawable-mdpi/ic_heart.png"
+    },
+    {
+        "merged": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/build/intermediates/merged_res/debug/drawable-mdpi_ic_action_search.png.flat",
+        "source": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/src/main/res/drawable-mdpi/ic_action_search.png"
+    },
+    {
+        "merged": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/build/intermediates/merged_res/debug/drawable-xxhdpi_ic_action_retweet.png.flat",
+        "source": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/src/main/res/drawable-xxhdpi/ic_action_retweet.png"
+    },
+    {
+        "merged": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/build/intermediates/merged_res/debug/layout_fragment_wc_variation_dialog.xml.flat",
+        "source": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/src/main/res/layout/fragment_wc_variation_dialog.xml"
+    },
+    {
+        "merged": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/build/intermediates/merged_res/debug/drawable-mdpi_soundcloud_shadow_bottom.9.png.flat",
+        "source": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/src/main/res/drawable-mdpi/soundcloud_shadow_bottom.9.png"
+    },
+    {
+        "merged": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/build/intermediates/merged_res/debug/drawable-xxhdpi_ic_shield.png.flat",
+        "source": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/src/main/res/drawable-xxhdpi/ic_shield.png"
+    },
+    {
+        "merged": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/build/intermediates/merged_res/debug/drawable-xxhdpi_ic_action_grid_view.png.flat",
+        "source": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/src/main/res/drawable-xxhdpi/ic_action_grid_view.png"
+    },
+    {
+        "merged": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/build/intermediates/merged_res/debug/drawable-mdpi_ic_action_share.png.flat",
+        "source": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/src/main/res/drawable-mdpi/ic_action_share.png"
+    },
+    {
+        "merged": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/build/intermediates/merged_res/debug/drawable-xxhdpi_ic_action_wallpaper.png.flat",
+        "source": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/src/main/res/drawable-xxhdpi/ic_action_wallpaper.png"
+    },
+    {
+        "merged": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/build/intermediates/merged_res/debug/layout_fragment_wc_header_image.xml.flat",
+        "source": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/src/main/res/layout/fragment_wc_header_image.xml"
+    },
+    {
+        "merged": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/build/intermediates/merged_res/debug/drawable-mdpi_ic_shield.png.flat",
+        "source": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/src/main/res/drawable-mdpi/ic_shield.png"
+    },
+    {
+        "merged": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/build/intermediates/merged_res/debug/drawable_gradient_five.xml.flat",
+        "source": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/src/main/res/drawable/gradient_five.xml"
+    },
+    {
+        "merged": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/build/intermediates/merged_res/debug/drawable-xxxhdpi_ic_search.png.flat",
+        "source": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/src/main/res/drawable-xxxhdpi/ic_search.png"
+    },
+    {
+        "merged": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/build/intermediates/merged_res/debug/layout_fragment_rss_row.xml.flat",
+        "source": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/src/main/res/layout/fragment_rss_row.xml"
+    },
+    {
+        "merged": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/build/intermediates/merged_res/debug/layout_listview_slider.xml.flat",
+        "source": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/src/main/res/layout/listview_slider.xml"
+    },
+    {
+        "merged": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/build/intermediates/merged_res/debug/drawable-hdpi_ic_previous_white.png.flat",
+        "source": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/src/main/res/drawable-hdpi/ic_previous_white.png"
+    },
+    {
+        "merged": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/build/intermediates/merged_res/debug/drawable-xxhdpi_ic_edit.png.flat",
+        "source": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/src/main/res/drawable-xxhdpi/ic_edit.png"
+    },
+    {
+        "merged": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/build/intermediates/merged_res/debug/drawable-hdpi_soundcloud_shadow_top.9.png.flat",
+        "source": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/src/main/res/drawable-hdpi/soundcloud_shadow_top.9.png"
+    },
+    {
+        "merged": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/build/intermediates/merged_res/debug/drawable-xxxhdpi_ic_action_right.png.flat",
+        "source": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/src/main/res/drawable-xxxhdpi/ic_action_right.png"
+    },
+    {
+        "merged": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/build/intermediates/merged_res/debug/layout_activity_video_detail.xml.flat",
+        "source": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/src/main/res/layout/activity_video_detail.xml"
+    },
+    {
+        "merged": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/build/intermediates/merged_res/debug/drawable-hdpi_ic_action_action_done.png.flat",
+        "source": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/src/main/res/drawable-hdpi/ic_action_action_done.png"
+    },
+    {
+        "merged": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/build/intermediates/merged_res/debug/menu_settings_menu.xml.flat",
+        "source": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/src/main/res/menu/settings_menu.xml"
+    },
+    {
+        "merged": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/build/intermediates/merged_res/debug/drawable-xxxhdpi_ic_bag.png.flat",
+        "source": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/src/main/res/drawable-xxxhdpi/ic_bag.png"
+    },
+    {
+        "merged": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/build/intermediates/merged_res/debug/layout_fragment_wc_cart.xml.flat",
+        "source": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/src/main/res/layout/fragment_wc_cart.xml"
+    },
+    {
+        "merged": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/build/intermediates/merged_res/debug/drawable-xhdpi_ic_action_right.png.flat",
+        "source": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/src/main/res/drawable-xhdpi/ic_action_right.png"
+    },
+    {
+        "merged": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/build/intermediates/merged_res/debug/drawable-hdpi_ic_action_share_dark.png.flat",
+        "source": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/src/main/res/drawable-hdpi/ic_action_share_dark.png"
+    },
+    {
+        "merged": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/build/intermediates/merged_res/debug/drawable-xxhdpi_ic_pause_white.png.flat",
+        "source": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/src/main/res/drawable-xxhdpi/ic_pause_white.png"
+    },
+    {
+        "merged": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/build/intermediates/merged_res/debug/layout_listview_highlight_text.xml.flat",
+        "source": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/src/main/res/layout/listview_highlight_text.xml"
+    },
+    {
+        "merged": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/build/intermediates/merged_res/debug/layout_activity_woocommerce_product.xml.flat",
+        "source": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/src/main/res/layout/activity_woocommerce_product.xml"
+    },
+    {
+        "merged": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/build/intermediates/merged_res/debug/layout_fragment_overview_card_image.xml.flat",
+        "source": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/src/main/res/layout/fragment_overview_card_image.xml"
+    },
+    {
+        "merged": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/build/intermediates/merged_res/debug/drawable-xhdpi_ic_launcher.png.flat",
+        "source": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/src/main/res/drawable-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/build/intermediates/merged_res/debug/drawable-xhdpi_ic_shield.png.flat",
+        "source": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/src/main/res/drawable-xhdpi/ic_shield.png"
+    },
+    {
+        "merged": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/build/intermediates/merged_res/debug/drawable-xxhdpi_ic_action_share.png.flat",
+        "source": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/src/main/res/drawable-xxhdpi/ic_action_share.png"
+    },
+    {
+        "merged": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/build/intermediates/merged_res/debug/layout_activity_main_tablet.xml.flat",
+        "source": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/src/main/res/layout/activity_main_tablet.xml"
+    },
+    {
+        "merged": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/build/intermediates/merged_res/debug/drawable-mdpi_ic_action_retweet.png.flat",
+        "source": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/src/main/res/drawable-mdpi/ic_action_retweet.png"
+    },
+    {
+        "merged": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/build/intermediates/merged_res/debug/drawable-hdpi_ic_heart.png.flat",
+        "source": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/src/main/res/drawable-hdpi/ic_heart.png"
+    },
+    {
+        "merged": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/build/intermediates/merged_res/debug/drawable-xxxhdpi_ic_action_outline_view.png.flat",
+        "source": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/src/main/res/drawable-xxxhdpi/ic_action_outline_view.png"
+    },
+    {
+        "merged": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/build/intermediates/merged_res/debug/layout_fragment_tv_controls.xml.flat",
+        "source": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/src/main/res/layout/fragment_tv_controls.xml"
+    },
+    {
+        "merged": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/build/intermediates/merged_res/debug/menu_menu_image.xml.flat",
+        "source": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/src/main/res/menu/menu_image.xml"
+    },
+    {
+        "merged": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/build/intermediates/merged_res/debug/menu_activity_main_drawer.xml.flat",
+        "source": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/src/main/res/menu/activity_main_drawer.xml"
+    },
+    {
+        "merged": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/build/intermediates/merged_res/debug/layout_listview_empty.xml.flat",
+        "source": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/src/main/res/layout/listview_empty.xml"
+    },
+    {
+        "merged": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/build/intermediates/merged_res/debug/drawable_drawer_item_background_selected.xml.flat",
+        "source": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/src/main/res/drawable/drawer_item_background_selected.xml"
+    },
+    {
+        "merged": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/build/intermediates/merged_res/debug/drawable-xhdpi_ic_pause_white.png.flat",
+        "source": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/src/main/res/drawable-xhdpi/ic_pause_white.png"
+    },
+    {
+        "merged": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/build/intermediates/merged_res/debug/drawable-xxxhdpi_ic_delete.png.flat",
+        "source": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/src/main/res/drawable-xxxhdpi/ic_delete.png"
+    },
+    {
+        "merged": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/build/intermediates/merged_res/debug/drawable-xhdpi_ic_action_wallpaper.png.flat",
+        "source": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/src/main/res/drawable-xhdpi/ic_action_wallpaper.png"
+    },
+    {
+        "merged": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/build/intermediates/merged_res/debug/drawable-xhdpi_ic_action_grid_view.png.flat",
+        "source": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/src/main/res/drawable-xhdpi/ic_action_grid_view.png"
+    },
+    {
+        "merged": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/build/intermediates/merged_res/debug/drawable-xxxhdpi_ic_action_youtube.png.flat",
+        "source": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/src/main/res/drawable-xxxhdpi/ic_action_youtube.png"
+    },
+    {
+        "merged": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/build/intermediates/merged_res/debug/drawable_splash_screen.xml.flat",
+        "source": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/src/main/res/drawable/splash_screen.xml"
+    },
+    {
+        "merged": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/build/intermediates/merged_res/debug/drawable-mdpi_ic_search.png.flat",
+        "source": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/src/main/res/drawable-mdpi/ic_search.png"
+    },
+    {
+        "merged": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/build/intermediates/merged_res/debug/drawable_chip_background.xml.flat",
+        "source": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/src/main/res/drawable/chip_background.xml"
+    },
+    {
+        "merged": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/build/intermediates/merged_res/debug/drawable-xxxhdpi_ic_previous_white.png.flat",
+        "source": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/src/main/res/drawable-xxxhdpi/ic_previous_white.png"
+    },
+    {
+        "merged": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/build/intermediates/merged_res/debug/layout_activity_comments.xml.flat",
+        "source": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/src/main/res/layout/activity_comments.xml"
+    },
+    {
+        "merged": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/build/intermediates/merged_res/debug/layout_fragment_wc_header.xml.flat",
+        "source": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/src/main/res/layout/fragment_wc_header.xml"
+    },
+    {
+        "merged": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/build/intermediates/merged_res/debug/layout_activity_woocommerce_login.xml.flat",
+        "source": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/src/main/res/layout/activity_woocommerce_login.xml"
+    },
+    {
+        "merged": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/build/intermediates/merged_res/debug/layout_fragment_wordpress_list_row.xml.flat",
+        "source": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/src/main/res/layout/fragment_wordpress_list_row.xml"
+    },
+    {
+        "merged": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/build/intermediates/merged_res/debug/drawable-mdpi_ic_more_vert.png.flat",
+        "source": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/src/main/res/drawable-mdpi/ic_more_vert.png"
+    },
+    {
+        "merged": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/build/intermediates/merged_res/debug/layout_activity_main_content.xml.flat",
+        "source": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/src/main/res/layout/activity_main_content.xml"
+    },
+    {
+        "merged": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/build/intermediates/merged_res/debug/layout_fragment_wc_category_card_text.xml.flat",
+        "source": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/src/main/res/layout/fragment_wc_category_card_text.xml"
+    },
+    {
+        "merged": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/build/intermediates/merged_res/debug/layout_fragment_wc_header_slider_categories.xml.flat",
+        "source": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/src/main/res/layout/fragment_wc_header_slider_categories.xml"
+    },
+    {
+        "merged": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/build/intermediates/merged_res/debug/drawable-xxhdpi_ic_action_outline_view.png.flat",
+        "source": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/src/main/res/drawable-xxhdpi/ic_action_outline_view.png"
+    },
+    {
+        "merged": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/build/intermediates/merged_res/debug/xml_provider_paths.xml.flat",
+        "source": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/src/main/res/xml/provider_paths.xml"
+    },
+    {
+        "merged": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/build/intermediates/merged_res/debug/drawable-xhdpi_ic_open_in_new.png.flat",
+        "source": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/src/main/res/drawable-xhdpi/ic_open_in_new.png"
+    },
+    {
+        "merged": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/build/intermediates/merged_res/debug/drawable-xxhdpi_ic_delete.png.flat",
+        "source": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/src/main/res/drawable-xxhdpi/ic_delete.png"
+    },
+    {
+        "merged": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/build/intermediates/merged_res/debug/layout_fragment_wc_header_slider_products.xml.flat",
+        "source": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/src/main/res/layout/fragment_wc_header_slider_products.xml"
+    },
+    {
+        "merged": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/build/intermediates/merged_res/debug/drawable-mdpi_ic_edit.png.flat",
+        "source": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/src/main/res/drawable-mdpi/ic_edit.png"
+    },
+    {
+        "merged": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/build/intermediates/merged_res/debug/drawable-xhdpi_ic_action_youtube.png.flat",
+        "source": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/src/main/res/drawable-xhdpi/ic_action_youtube.png"
+    },
+    {
+        "merged": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/build/intermediates/merged_res/debug/drawable-mdpi_ic_bag.png.flat",
+        "source": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/src/main/res/drawable-mdpi/ic_bag.png"
+    },
+    {
+        "merged": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/build/intermediates/merged_res/debug/drawable-xxxhdpi_ic_view_carousel.png.flat",
+        "source": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/src/main/res/drawable-xxxhdpi/ic_view_carousel.png"
+    },
+    {
+        "merged": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/build/intermediates/merged_res/debug/layout_fragment_fav_row.xml.flat",
+        "source": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/src/main/res/layout/fragment_fav_row.xml"
+    },
+    {
+        "merged": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/build/intermediates/merged_res/debug/layout_bottom_sheet_privacy.xml.flat",
+        "source": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/src/main/res/layout/bottom_sheet_privacy.xml"
+    },
+    {
+        "merged": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/build/intermediates/merged_res/debug/drawable-mdpi_ic_action_right.png.flat",
+        "source": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/src/main/res/drawable-mdpi/ic_action_right.png"
+    },
+    {
+        "merged": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/build/intermediates/merged_res/debug/drawable-xxhdpi_ic_heart.png.flat",
+        "source": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/src/main/res/drawable-xxhdpi/ic_heart.png"
+    },
+    {
+        "merged": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/build/intermediates/merged_res/debug/drawable-xxxhdpi_ic_radio_playing.png.flat",
+        "source": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/src/main/res/drawable-xxxhdpi/ic_radio_playing.png"
+    },
+    {
+        "merged": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/build/intermediates/merged_res/debug/drawable_soundcloud_selectable_background_selected.xml.flat",
+        "source": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/src/main/res/drawable/soundcloud_selectable_background_selected.xml"
+    },
+    {
+        "merged": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/build/intermediates/merged_res/debug/drawable-v21_soundcloud_selectable_background_white.xml.flat",
+        "source": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/src/main/res/drawable-v21/soundcloud_selectable_background_white.xml"
+    },
+    {
+        "merged": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/build/intermediates/merged_res/debug/drawable-xxhdpi_ic_action_play.png.flat",
+        "source": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/src/main/res/drawable-xxhdpi/ic_action_play.png"
+    },
+    {
+        "merged": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/build/intermediates/merged_res/debug/drawable-xhdpi_ic_clear_white.png.flat",
+        "source": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/src/main/res/drawable-xhdpi/ic_clear_white.png"
+    },
+    {
+        "merged": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/build/intermediates/merged_res/debug/layout_activity_comments_row.xml.flat",
+        "source": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/src/main/res/layout/activity_comments_row.xml"
+    },
+    {
+        "merged": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/build/intermediates/merged_res/debug/layout_activity_woocommerce_checkout.xml.flat",
+        "source": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/src/main/res/layout/activity_woocommerce_checkout.xml"
+    },
+    {
+        "merged": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/build/intermediates/merged_res/debug/drawable-xxxhdpi_ic_action_share.png.flat",
+        "source": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/src/main/res/drawable-xxxhdpi/ic_action_share.png"
+    },
+    {
+        "merged": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/build/intermediates/merged_res/debug/drawable-xhdpi_ic_previous_white.png.flat",
+        "source": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/src/main/res/drawable-xhdpi/ic_previous_white.png"
+    },
+    {
+        "merged": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/build/intermediates/merged_res/debug/layout_fragment_youtube_livefooter.xml.flat",
+        "source": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/src/main/res/layout/fragment_youtube_livefooter.xml"
+    },
+    {
+        "merged": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/build/intermediates/merged_res/debug/drawable-xxxhdpi_ic_action_search.png.flat",
+        "source": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/src/main/res/drawable-xxxhdpi/ic_action_search.png"
+    },
+    {
+        "merged": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/build/intermediates/merged_res/debug/drawable-hdpi_ic_more_vert.png.flat",
+        "source": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/src/main/res/drawable-hdpi/ic_more_vert.png"
+    },
+    {
+        "merged": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/build/intermediates/merged_res/debug/drawable-xhdpi_ic_album_white.png.flat",
+        "source": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/src/main/res/drawable-xhdpi/ic_album_white.png"
+    },
+    {
+        "merged": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/build/intermediates/merged_res/debug/drawable-xxxhdpi_ic_edit.png.flat",
+        "source": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/src/main/res/drawable-xxxhdpi/ic_edit.png"
+    },
+    {
+        "merged": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/build/intermediates/merged_res/debug/drawable-mdpi_ic_action_refresh.png.flat",
+        "source": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/src/main/res/drawable-mdpi/ic_action_refresh.png"
+    },
+    {
+        "merged": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/build/intermediates/merged_res/debug/drawable-hdpi_ic_open_in_new.png.flat",
+        "source": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/src/main/res/drawable-hdpi/ic_open_in_new.png"
+    },
+    {
+        "merged": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/build/intermediates/merged_res/debug/drawable_gradient_three.xml.flat",
+        "source": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/src/main/res/drawable/gradient_three.xml"
+    },
+    {
+        "merged": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/build/intermediates/merged_res/debug/drawable-hdpi_ic_search.png.flat",
+        "source": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/src/main/res/drawable-hdpi/ic_search.png"
+    },
+    {
+        "merged": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/build/intermediates/merged_res/debug/drawable-xxhdpi_ic_action_right.png.flat",
+        "source": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/src/main/res/drawable-xxhdpi/ic_action_right.png"
+    },
+    {
+        "merged": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/build/intermediates/merged_res/debug/drawable-mdpi_ic_action_play.png.flat",
+        "source": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/src/main/res/drawable-mdpi/ic_action_play.png"
+    },
+    {
+        "merged": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/build/intermediates/merged_res/debug/drawable-xhdpi_ic_exit_to_app.png.flat",
+        "source": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/src/main/res/drawable-xhdpi/ic_exit_to_app.png"
+    },
+    {
+        "merged": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/build/intermediates/merged_res/debug/drawable-hdpi_ic_shield.png.flat",
+        "source": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/src/main/res/drawable-hdpi/ic_shield.png"
+    },
+    {
+        "merged": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/build/intermediates/merged_res/debug/drawable-xhdpi_ic_action_share.png.flat",
+        "source": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/src/main/res/drawable-xhdpi/ic_action_share.png"
+    },
+    {
+        "merged": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/build/intermediates/merged_res/debug/drawable-xxhdpi_ic_action_left.png.flat",
+        "source": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/src/main/res/drawable-xxhdpi/ic_action_left.png"
+    },
+    {
+        "merged": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/build/intermediates/merged_res/debug/drawable-mdpi_ic_action_left.png.flat",
+        "source": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/src/main/res/drawable-mdpi/ic_action_left.png"
+    },
+    {
+        "merged": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/build/intermediates/merged_res/debug/drawable-xhdpi_ic_comment.png.flat",
+        "source": "/Users/mark/Documents/Workspace/Android/Universal Application Studio/app/src/main/res/drawable-xhdpi/ic_comment.png"
+    }
+]
